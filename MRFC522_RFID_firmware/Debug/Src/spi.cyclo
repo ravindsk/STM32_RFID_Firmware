@@ -1,0 +1,4 @@
+../Src/spi.c:17:6:spi_init	1
+../Src/spi.c:90:8:spi_transmit	5
+../Src/spi.c:117:8:spi_receive	3
+../Src/spi.c:135:8:spi_receive_byte	2
